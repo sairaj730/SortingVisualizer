@@ -20,9 +20,6 @@ It helps users **see how different sorting algorithms work** step-by-step with a
 ---
 
 ## 🖥 Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **Hosting:** GitHub Pages
 
----
-
-## 📂 Project Structure
